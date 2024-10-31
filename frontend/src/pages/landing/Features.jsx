@@ -2,7 +2,7 @@ import React from 'react'
 
 function Features() {
   return (
-    <div>Features</div>
+    <div className='h-screen'>Features</div>
   )
 }
 
