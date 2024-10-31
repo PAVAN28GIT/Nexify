@@ -9,7 +9,7 @@ function Hero() {
 
       <div className="relative z-10 flex flex-col py-40 space-y-5 items-center">
         <h1>
-          <span class="text-8xl tracking-wide font-PTSansNarrow font-black text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+          <span class="text-8xl font-PTSansNarrow font-black text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
             Nexify
           </span>
         </h1>
